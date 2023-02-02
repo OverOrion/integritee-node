@@ -30,10 +30,10 @@ pallet-treasury = { default-features = false, git = "https://github.com/parityte
 pallet-utility = { default-features = false, git = "https://github.com/paritytech/substrate.git", branch = "polkadot-v0.9.37" }
 pallet-vesting = { default-features = false, git = "https://github.com/paritytech/substrate.git", branch = "polkadot-v0.9.37" }
 
-pallet-claims = { default-features = false, git = "https://github.com/OverOrion/pallets.git", branch = "szp/extract-tcb-info" }
-pallet-sidechain = { default-features = false, git = "https://github.com/OverOrion/pallets.git", branch = "szp/extract-tcb-info" }
-pallet-teeracle = { default-features = false, git = "https://github.com/OverOrion/pallets.git", branch = "szp/extract-tcb-info" }
-pallet-teerex = { default-features = false, git = "https://github.com/OverOrion/pallets.git", branch = "szp/extract-tcb-info" }
+pallet-claims = { default-features = false, git = "https://github.com/integritee-network/pallets.git", branch = "master" }
+pallet-sidechain = { default-features = false, git = "https://github.com/integritee-network/pallets.git", branch = "master" }
+pallet-teeracle = { default-features = false, git = "https://github.com/integritee-network/pallets.git", branch = "master" }
+pallet-teerex = { default-features = false, git = "https://github.com/integritee-network/pallets.git", branch = "master" }
 
 sp-api = { default-features = false, git = "https://github.com/paritytech/substrate.git", branch = "polkadot-v0.9.37" }
 sp-block-builder = { default-features = false, git = "https://github.com/paritytech/substrate.git", branch = "polkadot-v0.9.37" }
